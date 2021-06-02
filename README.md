@@ -53,10 +53,10 @@ This method returns an object. Keys refer to the variable names in the structure
 - `getNumByCol(sheet,idSeries,idCol)`
 This method returns an object. Keys refer to the variable names in the structure sheet. Values are the numbers of rows that refer to a variable in the defined sheet.
 
-- `getDataByRow(sheet,idSeries,idRow,dataRow`
+- `getDataByRow(sheet,idSeries,idRow,dataRow)`
 This method returns an object. Keys refer to the variable names in the structure sheet. Values are the values of variable names read from the given specific line number. The method is based on getNumByRow.
 
-- `getDataByCol(sheet,idSeries,idCol,dataCol`
+- `getDataByCol(sheet,idSeries,idCol,dataCol)`
 This method returns an object. Keys refer to the variable names in the structure sheet. Values are the values of variable names read from the given specific column number. The method is based on getNumByCol.
 
 
