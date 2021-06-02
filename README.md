@@ -10,7 +10,7 @@ To define the dictionary for easySheet, create a sheet in the Google Spreadsheet
 
 The dictionary sheet should be written in the format below.
 
-n/a         |SeriesName1|SeriesName2
+n/a       |SeriesName1|SeriesName2
 Variable1 |Col.Name1  |Col.Name2
 Variable2 |Col.Name1  |Col.Name2
 Variable3 |Col.Name1  |Col.Name2
