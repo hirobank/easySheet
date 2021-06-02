@@ -1,5 +1,4 @@
-//By hirobank, last edited on 19-Jan-2021.
-//This file follows the CC-BY-SA License.
+//By hirobank, last edited on 19-Jan-2021
 
 class easySheet {
   constructor(sheet) { //Parameter must be a *Sheet* object but NOT a string
